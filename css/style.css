@@ -1,0 +1,14 @@
+/* Global area */
+*{
+	margin:0;
+	padding: 0;
+	font-family: sans-serif;
+}
+/* Global area */
+.box img{
+	width:200px;
+	height: 200px;
+}
+figure > img {
+	width:100%;
+}
